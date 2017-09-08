@@ -37,7 +37,7 @@
 
 ## Notebooks
 
-[Code demonstration]()
+[Code demonstration](https://github.com/commit-live-students/day01_introduction_to_ml/blob/master/notebooks/day01_demo.ipynb)
 
 ## Assignments
 
